@@ -9,7 +9,7 @@
     "body-parser": "^1.18.3"
   },
   "scripts": {
-    "openshift": "nodeshift --strictSSL=false --nodeVersion=10.x",
+    "openshift": "nodeshift --strictSSL=false --nodeVersion=8.x",
     "start": "node app"
   }
 }
