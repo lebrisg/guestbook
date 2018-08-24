@@ -11,7 +11,7 @@
     "body-parser": "^1.18.3"
   },
   "scripts": {
-    "openshift": "nodeshift --strictSSL=false,
+    "openshift": "nodeshift --strictSSL=false",
     "start": "node app"
   }
 }
